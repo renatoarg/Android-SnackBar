@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SnackBar</string>
+    <string name="simple_snackbar">Simple SnackBar</string>
+    <string name="snackbar_action">SnackBar action</string>
+    <string name="action_label">Action Label</string>
+    <string name="snackbar_dismissed">Snackbar dismissed</string>
+    <string name="anchoredSnackbar">Anchored Snackbar</string>
+</resources>
